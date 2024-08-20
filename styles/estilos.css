@@ -1,0 +1,34 @@
+
+body {
+   margin: 0;
+   padding: 0;
+   color: black;
+   text-align: center;
+   font-size: 16px;
+   font-weight: bold;
+   font-family: Arial;
+   background-image: url(../images/informacion.jpg);
+   background-size: cover;
+}
+
+.logotipo {
+   width: 75vw;
+   max-width: 1000px;
+   min-width: 320px;
+   margin: auto;
+   margin-top: 300px;
+   align-items: center;
+   justify-content: center;
+}
+
+img {
+   width: 100%;
+
+}
+   
+footer {
+   color: #32C8FE;
+}
+   
+
+
